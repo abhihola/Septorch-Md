@@ -1,15 +1,11 @@
- <h1 align="center"> Suhail Md </h1> 
+ <h1 align="center"> SEPTORCH Md </h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
- 
-<h3 align="center"> <a href="https://github.com/SuhailTechInfo/Suhail-Md-Media">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
-
-<h4 align="center"> ✔️ Fixed Heroku Ban Problem ✔️</h4> 
 
 
 <p align="center">
-  <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="Suhail-Md" height="400" src="/lib/assets/pk.jpg">
+  <a href="https://wa.me/qr/52DDIUZ6AC33D1">
+    <img alt="SEPTORCH-MD" height="400" src="/lib/assets/pk.jpg">
   </a>
 </p>
     
